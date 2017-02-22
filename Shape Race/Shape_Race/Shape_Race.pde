@@ -1,3 +1,6 @@
+//Troy Nachtigall TU/e
+//Based Upon 
+
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
